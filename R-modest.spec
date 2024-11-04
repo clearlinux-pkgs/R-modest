@@ -4,7 +4,7 @@
 #
 Name     : R-modest
 Version  : 0.3.1
-Release  : 41
+Release  : 42
 URL      : https://cran.r-project.org/src/contrib/modest_0.3-1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/modest_0.3-1.tar.gz
 Summary  : Model-Based Dose-Escalation Trials
